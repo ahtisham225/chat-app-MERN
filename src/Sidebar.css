@@ -77,3 +77,16 @@
     font-size: 14px;
     
 }
+
+.sidebar__chats {
+    flex: 1;
+    background-color: white;
+    /* overflow: scroll; */
+    overflow-y: scroll;
+    /* overflow: hidden; */
+}   
+
+::-webkit-scrollbar {
+    width: 0px;
+    background: transparent; /* make scrollbar transparent */
+}
