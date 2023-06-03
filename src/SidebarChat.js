@@ -6,11 +6,11 @@ function SidebarChat() {
     <div className='sidebarChat'>
         <Avatar />
         <div className='sidebarChat__info'>
-            <h2>Room Name</h2>
+            <h3>Room Name</h3>
             <p>This is the last message</p>
         </div>
     </div>
   )
 }
 
-export default SidebarChat
+export default SidebarChat;
