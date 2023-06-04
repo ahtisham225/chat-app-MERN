@@ -34,4 +34,4 @@ The Backend is on https://github.com/ahtisham225/chat-app-MERN and Deployed on H
 The Frontend is Deployed on firebase.
 
 Enjoy!!!!!!
-https://chat-app-5ab83.web.app/
+https://chat-app-frondend.web.app/
