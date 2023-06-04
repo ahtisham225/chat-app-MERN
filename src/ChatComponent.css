@@ -26,7 +26,7 @@
     flex: 1;
     background-color: #F0EBE4;
     overflow: auto;
-    padding: 10px;
+    padding: 20px;
     /* background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-light.png"); */
     /* background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-dark.png"); */
     /* background-repeat: repeat; */
@@ -90,12 +90,19 @@
     opacity: 0.6;
 }
 
-.chat__footer > input {
+.chat__footer > form {
+    width: 85%;
+}
+.chat__footer > form > input {
 border: none;
+width: 100%;
 margin-left: 10px;
 outline-width: 0;
 background-color: white;
 border-radius: 10px;
 height: 40px;
-width: 90%;
+}
+.chat__footer > form > button {
+    /* outline: 0; */
+    display: none;
 }
