@@ -29,3 +29,9 @@ Pusher is a hosted service that makes it super-easy to add real-time data and fu
 What is MongoDB Change Streams?
 
 Give MongoDB an Ability firebase already has. so we can listen to changes in the database and fire off events. Change Stream will trigger the pusher. Pusher pushes data on frontend. Frontend will refresh and show us the new data.
+
+The Backend is on https://github.com/ahtisham225/chat-app-MERN and Deployed on Heroku.
+The Frontend is Deployed on firebase.
+
+Enjoy!!!!!!
+https://chat-app-5ab83.web.app/
